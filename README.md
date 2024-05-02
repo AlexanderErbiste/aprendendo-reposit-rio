@@ -1,2 +1,2 @@
-# aprendendo-reposit-rio
+# aprendendo-repositório
 início
